@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('config.js2');
+console.log('config.js3');
